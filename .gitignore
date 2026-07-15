@@ -1,0 +1,6 @@
+.venv
+Nfs
+.env
+*.xlsx
+__pycache__
+README.md
