@@ -56,7 +56,7 @@ pip install pandas openpyxl xmltodict python-dotenv
 2 - Adicione a variável apontando para a pasta onde você salvará suas notas fiscais. Exemplo:
 
 ```bash
-CAMINHO_PASTA_NOTAS = 'C:/Users/Usuario/Desktop/NotasFiscais'
+CAMINHO_PASTA_NOTAS = 'NotasFiscais'
 ```
 3 - Crie a pasta correspondente (neste caso, uma pasta chamada NotasFiscais na raiz do projeto) e coloque seus arquivos .xml lá dentro.
 
